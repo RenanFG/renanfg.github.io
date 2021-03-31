@@ -365,14 +365,27 @@ let chars =[
     "name": "Ganyu",
     "img" : "https://rerollcdn.com/GENSHIN/Characters/Ganyu.png",
     "ele" : "Cryo",
-        "p_dps": 95,
+        "p_dps": 98,
         "p_heal": 0,
         "p_shield": 0,
         "p_cc" : 25,
         "p_boost" :0,
-        "p_eleSpread": 75,
-        "p_burst" : 45  
+        "p_eleSpread": 90,
+        "p_burst" : 75  
 },
+{
+    "name": "HuTao",
+    "img" : "https://rerollcdn.com/GENSHIN/Characters/Hu%20Tao.png",
+    "ele" : "Pyro",
+        "p_dps": 100,
+        "p_heal": 0,
+        "p_shield": 0,
+        "p_cc" : 0,
+        "p_boost" :0,
+        "p_eleSpread": 65,
+        "p_burst" : 80  
+    
+}
 ]
      
 let maindps;
