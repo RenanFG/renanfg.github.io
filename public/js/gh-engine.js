@@ -15,7 +15,7 @@ window.onload = function(){
 
 
 function includeHTML() {
-  
+  console.log('oi');
   var z, i, elmnt, file, xhttp;
   /*loop through a collection of all HTML elements:*/
   z = document.getElementsByTagName("*");
