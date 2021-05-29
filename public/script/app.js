@@ -385,6 +385,46 @@ let chars =[
         "p_eleSpread": 65,
         "p_burst" : 80  
     
+},
+        {
+    "name": "Rosaria",
+    "img" : "https://rerollcdn.com/GENSHIN/Characters/Rosaria.png",
+    "ele" : "Cryo",
+        "p_dps": 70,
+        "p_heal": 0,
+        "p_shield": 0,
+        "p_cc" : 0,
+        "p_boost" :0,
+        "p_eleSpread": 50,
+        "p_burst" : 30  
+    
+},
+        {
+    "name": "Yanfei",
+    "img" : "https://rerollcdn.com/GENSHIN/Characters/Yanfei.png",
+    "ele" : "Pyro",
+        "p_dps": 75,
+        "p_heal": 0,
+        "p_shield": 0,
+        "p_cc" : 0,
+        "p_boost" :0,
+        "p_eleSpread": 68,
+        "p_burst" : 60  
+    
+}
+        ,
+        {
+    "name": "Eula",
+    "img" : "https://rerollcdn.com/GENSHIN/Characters/Eula.png",
+    "ele" : "Cryo",
+        "p_dps": 100,
+        "p_heal": 0,
+        "p_shield": 0,
+        "p_cc" : 0,
+        "p_boost" :0,
+        "p_eleSpread": 35,
+        "p_burst" : 100  
+    
 }
 ]
      
