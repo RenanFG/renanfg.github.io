@@ -8,7 +8,7 @@
 </head>
 
 <body>
-
+  escrito no html
 <?php 
 echo 'hello jonatan'
 ?>
